@@ -1,4 +1,4 @@
-# lodash v4.17.4
+# lodash v4.17.4.12
 
 [Site](https://lodash.com/) |
 [Docs](https://lodash.com/docs) |
